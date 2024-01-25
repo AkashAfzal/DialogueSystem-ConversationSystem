@@ -3,4 +3,6 @@
 *.js linguist-detectable=false  
 *.html linguist-detectable=false  
 *.xml linguist-detectable=false 
-*.shaderLab linguist-detectable=false
+*.ShaderLab linguist-detectable=false
+*.shader linguist-detectable=false
+Assets/TextMesh?Pro/* linguist-vendored
