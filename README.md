@@ -32,5 +32,6 @@ Prototype Development: The project serves as a valuable tool for rapid prototypi
 The Unity One-to-One Dialogue System with Dynamic Actor Assignment empowers developers to create engaging, interactive dialogues with ease, offering a versatile solution for projects that require dynamic and immersive conversational experiences.
 
 Here is the Demo Video
-https://github.com/AkashAfzal/DialogueSystem-ConversationSystem/assets/85743965/27aba0aa-53ea-4ae1-994a-93800a110203
+
+<video src="https://github.com/AkashAfzal/DialogueSystem-ConversationSystem/assets/85743965/27aba0aa-53ea-4ae1-994a-93800a110203.mp4"></video>
 
