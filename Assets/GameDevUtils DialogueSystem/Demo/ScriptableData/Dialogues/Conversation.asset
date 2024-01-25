@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ed766bb9062205c46b1e66e67aefceed, type: 3}
+  m_Name: Conversation
+  m_EditorClassIdentifier: 
+  actors: {fileID: 11400000, guid: a51086b3b12931f4ca44c49be6ba712a, type: 2}
+  dialogues:
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 0
+    haveMultipleLines: 0
+    dialogueText: Hey Emily, I just finished coding for the new feature. It's ready
+      for integration.
+    dialogueLines:
+    - Asad skjdkjas
+    - jsdkjahskd
+    - jksdkjas
+    - jsdjkhasjdk
+    - jshdkjhaskdh
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 1
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - That's awesome.
+    - Akash! I've been working on the wireframes and user flows.
+    - Can we sync up to discuss the user interface design?
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 0
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - Sure, Emily. I'm curious about your thoughts on how we can make the user experience
+      more intuitive.
+    - Any specific design elements you have in mind?
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 1
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - Absolutely, Akash. I'm thinking of simplifying the navigation, and perhaps
+      incorporating more visual cues to guide users through the new feature.
+    - I'll share the wireframes with you.
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 0
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - Great! I'll take a look. Also, I'm planning to optimize some database queries
+      for better performance.
+    - Anything on the design end that might impact?
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 1
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - ' Not at the moment, but let''s sync up again after your optimizations. '
+    - It's crucial to ensure that the speed improvements align with the overall user
+      experience.
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 0
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - Agreed. I'll make sure to keep you in the loop.
+    - By the way, any specific color scheme or branding elements you want me to incorporate
+      into the interface?
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 1
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - I'm thinking of sticking to our brand colors for consistency.
+    - ' I''ll provide you with the hex codes. Let''s maintain that cohesive look.'
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 0
+    haveMultipleLines: 0
+    dialogueText: Perfect. Looking forward to collaborating, Emily. Let's make sure
+      this feature not only works seamlessly but looks fantastic too!
+    dialogueLines: []
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 1
+    haveMultipleLines: 1
+    dialogueText: 
+    dialogueLines:
+    - Absolutely, Akash! Teamwork makes the dream work.
+    - ' I appreciate your attention to both functionality and user experience.'
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 0
+    haveMultipleLines: 0
+    dialogueText: Thanks for the compliment. Please let me know when you finished
+      your work.
+    dialogueLines: []
+  - leftSideActor: 0
+    rightSideActor: 1
+    focusedActor: 1
+    haveMultipleLines: 0
+    dialogueText: Okay! Sure
+    dialogueLines: []

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e1ef880cb41d7554abf20f1125a99f8b, type: 3}
+  m_Name: Actors
+  m_EditorClassIdentifier: 
+  actorsList:
+  - actorId: 0
+    actorName: Akash Afzal
+    actorOccupation: Software Developer
+    actorDescription: Akash is a skilled software developer known for his proficiency
+      in multiple programming languages. He contributes to the company's success
+      by writing clean and efficient code, developing software solutions that meet
+      both user requirements and industry best practices.
+    actorAvatar: {fileID: 1064351631, guid: d604b6eb8244d9442946db0c45f9df6a, type: 3}
+  - actorId: 1
+    actorName: Emily Foster
+    actorOccupation: UX/UI Designer
+    actorDescription: Emily is a creative UX/UI designer who focuses on crafting
+      user-centric and visually appealing interfaces. She collaborates with cross-functional
+      teams to understand user needs, conducts user research, and designs intuitive
+      interfaces. Emily's designs not only enhance user experience but also align
+      with the overall brand identity of the company.
+    actorAvatar: {fileID: 1014260260, guid: d604b6eb8244d9442946db0c45f9df6a, type: 3}
+  - actorId: 2
+    actorName: Dexter Chang
+    actorOccupation: DevOps Engineer
+    actorDescription: Dexter is a DevOps engineer responsible for streamlining the
+      development and deployment processes within the company. With expertise in
+      automation, continuous integration, and continuous delivery, he bridges the
+      gap between development and operations. Dexter ensures that software releases
+      are efficient, reliable, and aligned with the company's business objectives.
+    actorAvatar: {fileID: 870632357, guid: d604b6eb8244d9442946db0c45f9df6a, type: 3}
+  - actorId: 3
+    actorName: Evan Turner
+    actorOccupation: IT Project Manager
+    actorDescription: Evan is an experienced IT project manager with a knack for
+      coordinating complex projects from inception to completion. He excels in team
+      leadership, resource allocation, and ensuring that projects are delivered on
+      time and within budget.
+    actorAvatar: {fileID: 1202732602, guid: d604b6eb8244d9442946db0c45f9df6a, type: 3}
+  - actorId: 4
+    actorName: Olivia Chen
+    actorOccupation: Front-end Developer
+    actorDescription: Olivia is a creative front-end developer with a passion for
+      crafting engaging and user-friendly interfaces. Her proficiency in HTML, CSS,
+      and JavaScript ensures that the company's web applications have both aesthetic
+      appeal and optimal functionality.
+    actorAvatar: {fileID: 254585140, guid: d604b6eb8244d9442946db0c45f9df6a, type: 3}
+  - actorId: 5
+    actorName: Daniel Ramirez
+    actorOccupation: Data Analyst
+    actorDescription: Daniel is a detail-oriented data analyst who specializes in
+      extracting actionable insights from complex datasets. His analytical skills
+      and statistical expertise contribute to informed decision-making within the
+      company, supporting data-driven strategies.
+    actorAvatar: {fileID: 531000818, guid: d604b6eb8244d9442946db0c45f9df6a, type: 3}
