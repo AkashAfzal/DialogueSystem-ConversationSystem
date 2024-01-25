@@ -1,6 +1,4 @@
-*.csharp linguist-detectable=true  
-*.java linguist-detectable=false  
-*.js linguist-detectable=false  
-*.html linguist-detectable=false  
+*.csharp linguist-detectable=true 
 *.xml linguist-detectable=false 
-*.ShaderLab linguist-detectable=false
+*.shader linguist-detectable=false
+*.hlsl linguist-detectable=false
