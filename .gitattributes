@@ -1,4 +1,2 @@
-*.csharp linguist-detectable=true 
-*.xml linguist-detectable=false 
 *.shader linguist-detectable=false
 *.cginc linguist-detectable=false
