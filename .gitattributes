@@ -5,4 +5,3 @@
 *.xml linguist-detectable=false 
 *.ShaderLab linguist-detectable=false
 *.shader linguist-detectable=false
-Assets/TextMesh?Pro/* linguist-vendored
